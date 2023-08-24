@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Abdulrahaman Abdulmuizz",
+    "label": "Web Developer",
+    "image": "",
+    "email": "harrismuizz10@gmail.com",
+    "phone": "(324) 8067-0285-16",
+    "url": "https://abdulmuizz.vercel.app",
+    "summary": "",
+    "location": {
+      "city": "Kogi State, Nigeria"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "username": "Abdulmuizz",
+        "url": "https://www.facebook.com/profile.php?id=100089375211792"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "clients": ["Abdulrahman Zubeidat", "Mall. Ibrahim", "Salihu Thoyib"],
+      "Projects": [
+        { "name": "Food Cattery Website", "About": "", "Url": "" },
+        { "name": "Cafe Website", "About": "", "Url": "" },
+        { "name": "Blog Website", "About": "", "Url": "" }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Junior Developer",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Tailwind",
+        "JavaScript",
+        "ReactJs",
+        "NextJs",
+        "NodeJs",
+        "MongoDb",
+        "Firebase"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Astronomy",
+      "keywords": ["Space Crafts", "Space Exploration"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mr.SHOWOLE MUBARAK",
+      "reference": "A Frontend-Engineer at Sellox"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Tesla-clone website",
+      "summary": "A responsive real-like tesla clone created withReactJs,React-router and Styled-components. it has nice slickdesign with smooth animation transitions and also amazing pagesthat also features cool graphic images.",
+      "url": "https://tesla-clone-9ac75.web.app"
+    },
+    {
+      "name": "Disney-clone Website",
+      "summary": "This is very similar to the original disney plus website. it has anavbar with cool click effect same as disney+ and it also has aslider or carousel with infinity or endless effect.it also has amovie cards. with awesome hover effects.",
+      "url": "https://disney-clone-nu-inky.vercel.app"
+    },
+    {
+      "name": "Linked-in Clone website",
+      "summary": "This is a responsive linked-in clone created with ReactJs. This clone also has an amazing feature which is creation and alsodeleting posts to wrap this up you can also add images to postswhich gives users original linked-in live experience.",
+      "url": "https://linked-in-clone-henna.vercel.app/"
+    }
+  ]
+}
